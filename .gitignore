@@ -1,0 +1,14 @@
+# Arquivos compilados do Maven
+/target/
+
+# Logs
+*.log
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+
+# Arquivos do Java
+*.class
